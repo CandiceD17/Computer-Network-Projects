@@ -1,4 +1,4 @@
-# Operating System Projects
+# Computer Network Projects
 
 This is a codebase for C-implementation of computer network projects in UCLA CS118 course.
 
